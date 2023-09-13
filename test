@@ -1,0 +1,278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>JS Enterprises</title>
+<!-- bootstrap link !-->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+<!-- css link !-->
+<link rel="stylesheet" href="sheet.css" />
+<!-- scroll link !-->
+<script src="https://unpkg.com/scrollreveal"></script>
+</head>
+
+<body>
+<!-- nav section starts here !-->
+<nav class="navbar navbar-expand-lg " id="navbar">
+  <div class="container-fluid">
+    <div class="nav-logo">
+	<img src="images/logo1.png" height="100px" width="150px" />
+	</div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link "  href="#home">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#service">Service</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="#contact" >Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- nav section ends here !-->
+<!-- home section starts here !-->
+<section id="home">
+<div class="container-fluid">
+<div class="row">
+<div class="col-lg-6 col-md-6 col-12 p-lg-5 p-2">
+<h1 class="wel">Welcome to <span><br />JS</span> Enterprises</h1>
+<p>your trusted partner for comprehensive <b> CCTV </b>(Closed-Circuit Television) solutions. With a passion for security and a commitment to cutting-edge technology, we are your go-to source for safeguarding what matters most to you.</p>
+<button type="button" class="btn">Contact us</button>
+</div>
+<div class="col-lg-6 col-md-6 col-12 p-lg-5 p-2">
+<img class="img-fluid img" src="images/home.jpg" />
+</div>
+</div>
+</div>
+</section>
+
+<!-- home section ends here !-->
+<!-- about section starts here !-->
+<section id="about">
+<div class="container-fluid p-lg-5 p-2">
+<h1 class="wel">About Us</h1>
+<p>JS enterprises was founded on the belief that security is not a luxury�it's a fundamental need. Our journey began 2023 when a group of like-minded individuals came together with a shared vision: to make advanced security accessible to all.
+
+Since then, we have grown into a leading force in the security industry, with a reputation for excellence and innovation. Our commitment to staying at the forefront of technological advancements has enabled us to consistently deliver state-of-the-art solutions that meet the evolving security needs of our clients.
+
+our mission is clear: to provide top-notch security solutions that empower individuals and businesses to protect their assets, loved ones, and peace of mind. We believe that everyone deserves the peace of mind that comes with a robust security system.</p>
+</div>
+</section>
+<section id="choose">
+<div class="container pt-5 pb-5">
+<h1>why choose us</h1>
+<div class="row">
+<div class="choose col-lg-3 col-md-3 col-12 p-lg-5 p-2">
+<h4>Expertise </h4>
+<p>Our team comprises seasoned professionals with in-depth knowledge of CCTV technology. We continuously update our skills to ensure we offer the best solutions in the market.</p>
+</div>
+<div class="choose col-lg-3 col-md-3 col-12 p-lg-5 p-2">
+<h4>Innovation </h4>
+<p>We thrive on innovation. By staying ahead of the curve, we bring you the latest advancements in security technology, offering you the highest level of protection.</p>
+</div>
+<div class="choose col-lg-3 col-md-3 col-12 p-lg-5 p-2">
+<h4>Customization </h4>
+<p>Your security needs are unique, and we treat them as such. We tailor our solutions to fit your specific requirements, whether you need a residential system, commercial setup, or something in between.</p>
+</div>
+<div class="choose col-lg-3 col-md-3 col-12 p-lg-5 p-2">
+<h4>Customer-Centric Approach </h4>
+<p>Your satisfaction is our utmost priority. We are with you every step of the way, from consultation and installation to ongoing support and maintenance.</p>
+</div>
+</div>
+</div>
+</section>
+
+
+<!-- about section ends here !-->
+
+<!-- service section starts here !-->
+<section id="service">
+<div class="container-fluid ">
+<div class="row">
+<h1 class="wel">Our service</h1>
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/ACCESS-CONTROL-SYS.jpg" class="card-img-top" height="300" width="300" />
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/Boom-Barrier.jpg" class="card-img-top"  height="300" width="300"/>
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/cctv.jpg" class="card-img-top"  height="300" width="300" />
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/fire alaram.jpg" class="card-img-top"  height="300" width="300"/>
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/intercom.jpg" class="card-img-top"  height="300" width="300" />
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-4 col-12 p-lg-5 p-2">
+<div class="card">
+<img src="images/inverter.jpg" class="card-img-top"  height="300" width="300" />
+<div class="card-body">
+<h5 class="card-title">1000</h5>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+</section>
+
+<!-- service section ends here !-->
+
+<!-- contact section starts here !-->
+<section id="contact">
+<div class="container-fluid p-lg-5 p-2">
+<div class="row">
+<h1 class="wel">Contact</h1>
+<div class="col-lg-6 col-md-6 col-12 p-lg-5 p-2">
+<iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3881.3744856125695!2d80.1431539750837!3d13.38912278696597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTPCsDIzJzIwLjgiTiA4MMKwMDgnNDQuNiJF!5e0!3m2!1sen!2sin!4v1694172291093!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="col-lg-6 col-md-6 col-12 p-lg-5 p-2">
+<div class="service-box-1">
+      <div class="title-container clearfix">
+        <div class="icon "> <i class="fa fa fa-home"></i>
+        <p>Address Details</p>
+		 </div>
+      </div>
+	  <p >Address: <br />49, PARANAMBEDU KAVARAIPETTAI CHENNAI -601206</p>
+    </div>
+	<div class="service-box-1">
+      <div class="title-container clearfix">
+        <div class="icon "> <i class="fa fa fa-home"></i>
+        <p>Email Id</p>
+		 </div>
+      </div>
+	  <p>Email Id: <br /><a href="emailto:jsanth1699@gmail.com"><span class="email">jsanth1699@gmail.com</span></a></p>
+    </div>
+	<div class="service-box-1">
+      <div class="title-container clearfix">
+        <div class="icon "> <i class="fa fa fa-home"></i>
+        <p>Call us today</p>
+		 </div>
+      </div>
+	  <p>Mobile Id: <br /><a href="tel:7092660987"><span class="mobile">+917092660987</span></a></p>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- contact section ends here !-->
+
+<!-- spotlight section starts here !-->
+<section id="spotlight">
+<div class="container-fluid p-lg-5 p-2">
+<div class="row">
+<h1>Spotlight</h1>
+<div class="col-lg-2 col-md-2 col-12 ">
+<a target="_blank" href="images/cctv.jpg">
+<img class="img-fluid rounded-circle" src="images/cctv.jpg" height="200px" width="180px" /></a>
+</div>
+<div class="col-lg-2 col-md-2 col-12 ">
+<img class="img-fluid rounded-circle" src="images/Boom-Barrier.jpg" height="100px" width="150px"/>
+</div>
+<div class="col-lg-2 col-md-2 col-12">
+<img class="img-fluid rounded-circle" src="images/ACCESS-CONTROL-SYS.jpg" height="100px" width="150px"/>
+</div>
+<div class="col-lg-2 col-md-2 col-12 ">
+<img class="img-fluid rounded-circle" src="images/fire alaram.jpg" height="200px" width="180px"/>
+</div>
+<div class="col-lg-2 col-md-2 col-12 ">
+<img class="img-fluid rounded-circle" src="images/intercom.jpg" height="200px" width="180px"/>
+</div>
+<div class="col-lg-2 col-md-2 col-12 ">
+<img class="img-fluid rounded-circle" src="images/inverter.jpg" height="200px" width="180px"/>
+</div>
+</div>
+</div>
+</section>
+<!-- spotlight section ends here !-->
+<!-- footer section starts here !-->
+<section id="footer">
+<div class="container-fluid p-lg-3 p-2">
+<div class="footer">
+<div class="logo">
+<img src="images/logo1.png" height="100px" width="200px" />
+</div>
+<div class="content2">
+<p>
+<a href="tel:7092660987"><span class="number">+917092660987</span></a>&nbsp;&nbsp;
+<a href="emailto:jsanth1699@gmail.com"><span class="email">jsanth1699@gmail.com</span></a><br />
+49, PARANAMBEDU KAVARAIPETTAI CHENNAI -601206
+<p>
+</div>
+</div>
+</div></section>
+<section id="design">
+<div class="container-fluid p-lg-3 p-2">
+<div class="design ">
+<span class="copy" >
+<h6 >&copy;2023 ALL RIGHTS RESERVED</h6></span>
+<span class="cbt">
+<h6 >Designed by<a href="https://codebindtechnologies.com/internship-in-chennai-for-cse-students/#">
+Codebindtechnologies.com</a></h6></span>
+</div>
+</div>
+</section>
+
+<script>
+ScrollReveal({
+ reset:true,
+ distance: '100px',
+ duration: 2500,
+ delay:400
+ });
+ ScrollReveal().reveal('.wel', { delay: 500, origin:'left' });
+ ScrollReveal().reveal('.img,#about,#service,#contact', { delay: 400, origin:'bottom' });
+</script>
+
+<!-- footer section ends here !-->
+</body>
+</html>
+
